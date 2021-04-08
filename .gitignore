@@ -1,0 +1,6 @@
+/.env
+*.crt
+*.pem
+*.xdb
+*.pdf
+*.bz2
